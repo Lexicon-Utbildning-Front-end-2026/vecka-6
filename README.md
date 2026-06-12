@@ -14,7 +14,8 @@ TypeScript - Intro Översikt TS vs JS, felsökning i DevTools, initiera projekt 
 
 ### 💻 E-Learning
 
-* [TypeScript: Big Picture (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-big-picture/table-of-contents)
+* Numera Retired. Se om ni vill.[TypeScript: Big Picture (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-big-picture/table-of-contents)
+* Se första delen om vad TS är för något. Lägg inte fokus på koden, utan se förklaringen till vad TS är. [TypeScript Foundations: The Big Picture](https://app.pluralsight.com/ilx/video-courses/94bd947c-faab-4a6e-8139-8ee3dc70d9c1)
 * Extra för de som vill - [TypeScript Best Practices (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-best-practices/table-of-contents)
 * [TypeScript in 100 Seconds - Fireship](https://www.youtube.com/watch?v=zQnBQ4tB3ZA)
 
