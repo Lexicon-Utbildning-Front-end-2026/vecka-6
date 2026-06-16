@@ -44,6 +44,9 @@ Variabler & Datatyper Deklaration (let, const), aritmetiska & tilldelningsoperat
 ### 📃 Läsning
 
 * [Everyday Types - Handbook](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
+* [(MDN) Template literals (Template strings)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+* [TypeScript coding. (Naming and stuff)](https://gist.github.com/anichitiandreea/e1d466022d772ea22db56399a7af576b)
+* Extra om man vill: [Debug code with Visual Studio Code](https://code.visualstudio.com/docs/debugtest/debugging)
 
 ---
 
