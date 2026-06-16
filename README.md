@@ -37,7 +37,9 @@ Variabler & Datatyper Deklaration (let, const), aritmetiska & tilldelningsoperat
 
 ### 💻 E-Learning
 
-* [Interfaces vs Types in TypeScript - onjsdev  _(för fördjupning nästa vecka)_](https://www.youtube.com/watch?v=BTBftM7D9v8)
+* [Variables in TypeScript | TypeScript Basics & Data Types](https://www.youtube.com/watch?v=ucNZ6LUe8KA)
+
+* [Datatypes in TypeScript | TypeScript Basics & Data Types](https://www.youtube.com/watch?v=Qb15y2BV42Y)
 
 ### 📃 Läsning
 
