@@ -88,6 +88,9 @@ Funktioner: - named, arrow, parametrar, returvärden.
 
 * Förstå och kunna skapa **funktioner** med olika syntax (named, arrow), parametrar och returvärden för att bygga återanvändbar kod.
 
+### Övning
+
+* [W3Schools Exercises](https://www.w3schools.com/typescript/exercise.php?x=xrcise_functions1)
 
 ---
 
