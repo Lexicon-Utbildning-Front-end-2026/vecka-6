@@ -48,6 +48,11 @@ Variabler & Datatyper Deklaration (let, const), aritmetiska & tilldelningsoperat
 * [TypeScript coding. (Naming and stuff)](https://gist.github.com/anichitiandreea/e1d466022d772ea22db56399a7af576b)
 * Extra om man vill: [Debug code with Visual Studio Code](https://code.visualstudio.com/docs/debugtest/debugging)
 
+### Övning
+
+Gör de 5 första övningarna idag. 
+* [W3Schools Exercises](https://www.w3schools.com/typescript/typescript_exercises.php)
+
 ---
 
 ## 📅 Onsdag: Villkor, Arrayer & Iteration
