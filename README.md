@@ -74,6 +74,10 @@ Arrayer, array-metoder, iteration, villkor & logiska/jämförelse operatorer, lo
 
 * [MDN - JavaScript Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
+### Övning
+
+* [W3Schools Exercises](https://www.w3schools.com/typescript/exercise.php?x=xrcise_arrays1)
+
 ---
 
 ## 📅 Torsdag: Funktioner & veckoövning
