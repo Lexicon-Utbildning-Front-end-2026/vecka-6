@@ -91,6 +91,11 @@ Funktioner: - named, arrow, parametrar, returvärden.
 
 * Förstå och kunna skapa **funktioner** med olika syntax (named, arrow), parametrar och returvärden för att bygga återanvändbar kod.
 
+### 💻 E-Learning
+
+* [(YT) Net Ninja - TypeScript Crash Course - Functions](https://www.youtube.com/watch?v=34xpwykL4Uc)
+* [(YT) Neveen AutomationLabs - Functions in TypeScript](https://www.youtube.com/watch?v=G2ybfBX2oxI)
+
 ### Övning
 
 * [W3Schools Exercises](https://www.w3schools.com/typescript/exercise.php?x=xrcise_functions1)
