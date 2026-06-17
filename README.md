@@ -69,6 +69,9 @@ Arrayer, array-metoder, iteration, villkor & logiska/jämförelse operatorer, lo
 ### 💻 E-Learning
 
 * Bara arrays, de andra är frivilliga - [TypeScript 5: Arrays and Collections (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-5-arrays-collections/table-of-contents)
+* [(YT) CheetCode - TypeScript Loops in Under 6 Minutes!](https://www.youtube.com/watch?v=JBsIulaexBg)
+* [(YT) Naveen AutomationLabs - Arrays In TypeScript](https://www.youtube.com/watch?v=Bh79UBu-hRg)
+* [(YT) arconsis - Arrays | TypeScript Basics](https://www.youtube.com/watch?v=HNR971V-9Ek)
 
 ### 📃 Läsning
 
