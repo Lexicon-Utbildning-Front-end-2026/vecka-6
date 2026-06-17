@@ -61,7 +61,7 @@ Arrayer, array-metoder, iteration, villkor & logiska/jämförelse operatorer, lo
 
 ### Mål för dagen
 
-* Förstå och använda **arrayer** och viktiga arraymetoder (`push`, `pop`, `splice`, `.length`) samt loop-tekniker (`for`, `for…of`).
+* Förstå och använda **arrayer** och viktiga arraymetoder (`push`, `pop`, `.length`) samt loop-tekniker (`for`, `for…of`).
 * Förstå och använda **villkorssatser** med jämförelse- och logiska operatorer.
 
 ## 📚 Material
